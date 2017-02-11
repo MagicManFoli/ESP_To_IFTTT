@@ -2,6 +2,13 @@
   "name": "ESP_To_IFTTT",
   "keywords": "wifi, IFTTT, ESP, ESP8266, WEMOS, Arduino",
   "description": "ESP8266 Arduino Library to send values to IFTTT's Maker Channel",
+  "authors": [
+        {
+            "name": "Robin Modisch",
+            "url": "https://github.com/MagicManFoli",
+            "maintainer": true
+        }
+    ],
   "repository":
   {
     "type": "git",
